@@ -1,2 +1,2 @@
-# Spark_Lab
-tips and tricks of pyspark programming 
+# Daily_Spark
+##### Useful Python scripts for everyday data wrangling
